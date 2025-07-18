@@ -20,4 +20,7 @@ This repository presents an end-to-end analysis of Amazon Product and Review dat
    - Identified product trends, outliers, and seasonal patterns.
 3. Visualization and Dashboard
    - Built Excel dashboard with charts showing:
-     - Category-wise discount and revenue 
+     - Category-wise discount and revenue
+## How to Use
+Open the Excel files in the `data/` folder. See `analysis/` for step-by-step pivots and calculations. Visit the `dashboards/` folder for summary charts.
+
